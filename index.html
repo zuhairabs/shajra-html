@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+	integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,600;0,700;0,800;1,400&display=swap"
+	rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+<link rel="stylesheet" href="icon/linearicons.css">
+
+<style type="text/css">
+	*::-webkit-scrollbar {
+		display: none;
+	}
+
+	.linage {
+		fill: none;
+		stroke: skyblue;
+		stroke-width: 2;
+		stroke-dasharray: 1000;
+		stroke-dashoffset: 1000;
+		animation: dash 10s linear infinite forwards;
+	}
+
+	@keyframes dash {
+		to {
+			stroke-dashoffset: 0;
+		}
+	}
+
+	.marriage {
+		fill: none;
+		stroke: skyblue;
+		stroke-width: 2;
+		stroke-dasharray: 1000;
+		stroke-dashoffset: 1000;
+		animation: dash 10s linear forwards;
+	}
+
+	.marriageNode {
+		background-color: black;
+		border-radius: 50%;
+	}
+
+	.man {
+		background-color: #fff;
+		width: 100px;
+		height: 120px;
+		padding: 10px;
+		box-sizing: border-box;
+	}
+
+	.man p {
+		/* Fallback: Set a background color. */
+		background-color: red;
+
+		/* Create the gradient. */
+		background-image: linear-gradient(45deg, #63a0f6, #424681);
+
+		/* Set the background size and repeat properties. */
+		background-size: 100%;
+		background-repeat: repeat;
+
+		/* Use the text as a mask for the background. */
+		/* This will show the gradient as a text color rather than element bg. */
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		-moz-background-clip: text;
+		-moz-text-fill-color: transparent;
+	}
+
+	.woman {
+		background-color: #fff;
+		width: 100px;
+		height: 120px;
+		padding: 10px;
+		box-sizing: border-box;
+	}
+
+	.woman p {
+		/* Fallback: Set a background color. */
+		background-color: red;
+
+		/* Create the gradient. */
+		background-image: linear-gradient(45deg, #f09bb8, #b8185d);
+
+		/* Set the background size and repeat properties. */
+		background-size: 100%;
+		background-repeat: repeat;
+
+		/* Use the text as a mask for the background. */
+		/* This will show the gradient as a text color rather than element bg. */
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		-moz-background-clip: text;
+		-moz-text-fill-color: transparent;
+	}
+
+	.emphasis {
+		font-style: italic;
+	}
+
+	p {
+		text-align: center;
+		padding: 0;
+		margin: 10px 0 0;
+	}
+
+	svg {
+		background-color: azure;
+		font: 13px Nunito, sans-serif;
+		font-weight: 800;
+	}
+
+	svg foreignObject {
+		color: rgb(13, 0, 65);
+		box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+	}
+
+	nav {
+		box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.1);
+	}
+
+	.bg-light {
+		background-color: #fff;
+	}
+
+	.nav-link {
+		color: rgb(23, 1, 110) !important;
+		font-weight: 800 !important;
+		font-family: 'Nunito', sans-serif;
+	}
+
+	.search-box {
+		width: 350px;
+		background-color: #eee;
+		padding: 2px 10px;
+		border-radius: 37px;
+		background: azure;
+		box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.13) inset;
+		-webkit-box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.13) inset;
+		-moz-box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.13) inset;
+	}
+
+	.search-box input {
+		background-color: azure;
+		border: none;
+		margin: 0;
+	}
+
+	.form-control:focus {
+		border: none !important;
+		box-shadow: none;
+		background-color: azure;
+	}
+
+	.dropdown-menu {
+		border: none;
+		box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+		border-radius: 10px;
+	}
+
+	.footer-sticky {
+		width: 70%;
+		padding: 15px;
+		position: absolute;
+		bottom: 0;
+		background-color: #fff;
+		border-radius: 10px;
+		box-shadow: 0px -3px 15px rgba(0, 0, 0, 0.1);
+	}
+</style>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+	integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+	integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+	crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="dTree.min.js"></script>
+
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-light">
+		<a class="navbar-brand mb-2" href="#"><img width="70" height="40" src="logo-small.png" alt="logo"><img
+				width="200" height="40" src="logo-big.png" alt="logo"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav mr-auto mt-md-0 mt-4">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">Family Tree <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Information</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Contacts</a>
+				</li>
+			</ul>
+			<form class="d-none d-md-block search-box form-inline my-2 mr-auto">
+				<span class="lnr lnr-magnifier my-2" type="submit"></span>
+				<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+			</form>
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Language
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						<a class="dropdown-item" href="#">English</a>
+						<a class="dropdown-item" href="#">Urdu</a>
+						<a class="dropdown-item" href="#">Farsi</a>
+						<a class="dropdown-item" href="#">Arabic</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+	<div id="graph"></div>
+
+	<div class="d-flex justify-content-center">
+		<footer class="footer-sticky">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col-4">
+						<a style="cursor:pointer;" onclick="openFullscreen()"><i class="linearicons-expand"></i>&nbsp; Fullscreen</a>
+					</div>
+					<div class="col-4">
+						<a style="cursor:pointer;" onclick="alert('Use Mouse')"></button><i class="linearicons-zoom-in"></i>&nbsp; Zoom In</a>
+					</div>
+					<div class="col-4">
+						<a style="cursor:pointer;" onclick="alert('Use Mouse')"><i class="linearicons-zoom-out"></i>&nbsp; Zoom Out</a>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<script>
+		treeJson = d3.json("data.json", function (error, treeData) {
+			dTree.init(treeData,
+				{
+					target: "#graph",
+					debug: true,
+					hideMarriageNodes: true,
+					marriageNodeSize: 5,
+					height: 2500,
+					width: 1200,
+					callbacks: {
+						nodeClick: function (name, extra) {
+							alert('Click: ' + name);
+						},
+						nodeRightClick: function (name, extra) {
+							alert('Right-click: ' + name);
+						},
+						textRenderer: function (name, extra, textClass) {
+							if (extra && extra.nickname)
+								name = name + " (" + extra.nickname + ")";
+							if (extra && extra.place)
+								return "<p align='center' class='" + textClass + "'>" + name + "<br><br><small>" + extra.place + "</small></p>";
+							else 
+								return "<p align='center' class='" + textClass + "'>" + name + "</p>";
+						},
+						marriageClick: function (extra, id) {
+							alert('Clicked marriage node' + id);
+						},
+						marriageRightClick: function (extra, id) {
+							alert('Right-clicked marriage node' + id);
+						},
+					}
+				});
+		});
+	</script>
+	<script src="js/script.js"></script>
+</body>
+
+</html>

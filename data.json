@@ -1,0 +1,114 @@
+[{
+  "name": "Prophet Muhammad (saw)",
+  "class": "man",
+  "extra": {
+    "place": "Medina, Hejaz"
+  },
+  "textClass": "emphasis",
+  "marriages": [{
+    "spouse": {
+      "name": "Bibi Khadija",
+      "class": "woman",
+      "extra": {
+        "nickname": "Bint Khuwaylid",
+        "place": "Medina, Hejaz"
+      }
+    },
+    "children": [{
+      "name": "Bibi Fatima",
+      "class": "woman",
+      "extra": {
+        "nickname": "Az Zahra",
+        "place": "Medina, Hejaz"
+      },
+      "marriages": [{
+        "spouse": {
+          "name": "Imam Ali Ibn Imran",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        },
+        "children": [{
+          "name": "Imam Hasan Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Husain ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Ali ibn Husain",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Mohd Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Jafar Ibn Mohd",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Musa Ibn Jafar",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Ali Ibn Musa",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Mohd Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Ali Ibn Mohd",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Hasan Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Mahdi Ibn Hasan",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }]
+      }]
+    }]
+  }]
+}]
