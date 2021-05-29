@@ -82,17 +82,43 @@ body.dark,
 .dark .footer-sticky,
 .dark nav,
 .dark .dropdown-menu,
+.dark .search-box,
+.dark .search-box input,
 .dark .man,
 .dark .woman {
     background-color: #2b2b2b;
     color: #d9d9d9;
 }
 
+.dark .search-box {
+  box-shadow: 1px 2px 5px 3px rgba(0, 0, 0, 0.5) inset;
+    -webkit-box-shadow: 1px 2px 5px 3px rgba(0, 0, 0, 0.5) inset;
+    -moz-box-shadow: 1px 2px 5px 3px rgba(0, 0, 0, 0.5) inset;
+}
+
+.dark .card form input, 
+.dark .card form textarea {
+  background-color: #2b2b2b;
+}
+
+.dark .card form input:focus,
+.dark .card form textarea:focus {
+  border: 1px solid #fff !important;
+  background-color: rgb(27,27,27);
+}
+
 .dark .card a,
 .dark nav a,
+.dark .card-title,
 .dark .nav-link,
 .dark .navbar-toggler i {
     color: #d9d9d9 !important;
+}
+
+.dark .contact-btn {
+  background-color: #2b2b2b;
+  color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 
 /* dark mode support
