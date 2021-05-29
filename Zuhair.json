@@ -1,0 +1,675 @@
+[{
+  "name": "Prophet Muhammad (saw)",
+  "class": "man",
+  "extra": {
+    "place": "Medina, Hejaz"
+  },
+  "textClass": "emphasis",
+  "marriages": [{
+    "spouse": {
+      "name": "Bibi Khadija",
+      "class": "woman",
+      "extra": {
+        "nickname": "Bint Khuwaylid",
+        "place": "Medina, Hejaz"
+      }
+    },
+    "children": [{
+      "name": "Bibi Fatima",
+      "class": "woman",
+      "extra": {
+        "nickname": "Az Zahra",
+        "place": "Medina, Hejaz"
+      },
+      "marriages": [{
+        "spouse": {
+          "name": "Imam Ali Ibn Imran",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        },
+        "children": [{
+          "name": "Imam Hasan Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Husain ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Ali ibn Husain",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Umm Walad",
+              "class": "woman",
+              "extra": {
+                "nickname": "Kaneez",
+                "place": "Medina, Hejaz"
+              }
+            },
+            "children": [{
+              "name": "Umar Ashraf",
+              "class": "man",
+              "extra": {
+                "nickname": "Abidi",
+                "place": "Medina, Hejaz"
+              },
+              "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Medina, Hejaz"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Zakaria",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Qutbuddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Sadruddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Jalaluddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ahmed Fateulla",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Wajeehuddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Mohd Aqeel",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Mehmood",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ahmed Abul Qasim",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Aliul Haq",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Arabia"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Arabia"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ali Ishaq",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Tibristan, Iran"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Tibristan, Iran"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Badruddin Ishaq",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Pakpattan, Pakistan"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Pakpattan, Pakistan"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Mohd Imam",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Delhi, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Delhi, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Fakhruddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Azizuddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Saalim",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ali",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Allah Diya Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ali Hamza",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Moizuddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Jamaluddin",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ali Akbar",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Dulha Mahdi",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Ali Laal Mohd",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Fateh Mohd",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Nemat Ali",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                                "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Shahamat Ali",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                  "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Hashim Ali",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                  "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Aamir Raza",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Naugawan Sadat, India"
+                  },
+                  "marriages": [{
+                "spouse": {
+                  "name": "Wife",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Naugawan Sadat, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Tahir Raza",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Mumbai, India"
+                  },
+                  "marriages": [{
+                "spouse": {
+                  "name": "Binte Fatima",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Mumbai, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Shoeb Raza",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Mumbai, India"
+                  },
+                  "marriages": [{
+                "spouse": {
+                  "name": "Mehboob Fatima",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Mumbai, India"
+                  }
+                },
+                "children": [{
+                  "name": "Syed Zuhair Abbas",
+                  "class": "man",
+                  "textClass": "emphasis",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Mumbai, India"
+                  }
+                }, {
+                  "name": "Syed Burair Abbas",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Mumbai, India"
+                  }
+                }, {
+                  "name": "Syed Ozair Abbas",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Mumbai, India"
+                  }
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                
+              }]
+                }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+                }]
+              }]
+            }]
+          }]
+        }, {
+          "name": "Imam Mohd Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Jafar Ibn Mohd",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Musa Ibn Jafar",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Ali Ibn Musa",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Mohd Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Ali Ibn Mohd",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Hasan Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Imam Mahdi Ibn Hasan",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }]
+      }]
+    }]
+  }]
+}]

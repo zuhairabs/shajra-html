@@ -1,0 +1,631 @@
+[{
+  "name": "Prophet Muhammad (saw)",
+  "class": "man",
+  "extra": {
+    "place": "Medina, Hejaz"
+  },
+  "textClass": "emphasis",
+  "marriages": [{
+    "spouse": {
+      "name": "Bibi Khadija",
+      "class": "woman",
+      "extra": {
+        "nickname": "Bint Khuwaylid",
+        "place": "Medina, Hejaz"
+      }
+    },
+    "children": [{
+      "name": "Bibi Fatima, Ummul Banin",
+      "class": "woman",
+      "extra": {
+        "nickname": "sa",
+        "place": "Medina, Hejaz"
+      },
+      "marriages": [{
+        "spouse": {
+          "name": "Imam Ali Ibn Abu Talib",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        },
+        "children": [{
+          "name": "Abbas Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "Abul Fazl as",
+            "place": "Medina, Hejaz"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Lubaba Bint Ubaydullah",
+              "class": "woman",
+              "extra": {
+                "nickname": "sa",
+                "place": "Medina, Hejaz"
+              }
+            }, "children": [{
+                "name": "Fazl Ibn Abbas",
+                "class": "man",
+                "extra": {
+                  "nickname": "as",
+                  "place": "Medina, Hejaz"
+                }
+              }, {
+                "name": "Ubaydullah Ibn Abbas",
+                "class": "man",
+                "extra": {
+                  "nickname": "as",
+                  "place": "Medina, Hejaz"
+                }
+              }]
+          }]
+        }, {
+          "name": "Muhsin Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Abdullah Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "ra",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Jafar Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "ra",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Uthman Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "ra",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Ubaydullah Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "ra",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Umar Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "ra",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Mohd Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "ra",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Umm Kulthum",
+          "class": "woman",
+          "extra": {
+            "nickname": "sa",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Ruqayyah",
+          "class": "woman",
+          "extra": {
+            "nickname": "sa",
+            "place": "Medina, Hejaz"
+          }
+        }, {
+          "name": "Zaynab Bint Ali",
+          "class": "woman",
+          "extra": {
+            "nickname": "sa",
+            "place": "Medina, Hejaz"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Abdullah Ibn Jafar",
+              "class": "man",
+              "extra": {
+                "nickname": "ra",
+                "place": "Medina, Hejaz"
+              }
+            }, "children": [{
+                "name": "Aun Ibn Abdullah",
+                "class": "man",
+                "extra": {
+                  "nickname": "as",
+                  "place": "Medina, Hejaz"
+                }
+              }, {
+                "name": "Mohd Ibn Abdullah",
+                "class": "man",
+                "extra": {
+                  "nickname": "as",
+                  "place": "Medina, Hejaz"
+                }
+              }]
+          }]
+        }, {
+          "name": "Imam Hasan Ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Umm Farwa, Umm Kulthum, Khawla bt. Manzur",
+              "class": "woman",
+              "extra": {
+                "place": "Medina, Hejaz"
+              }
+            },
+            "children": [{
+              "name": "Fatima Bint Hasan",
+              "class": "woman",
+              "extra": {
+                "nickname": "sa",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Qasim ibn Hasan",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Zayd ibn Hasan",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Al Hasan Al Muthanna",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Abdullah ibn Hasan",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Talha ibn Hasan",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }]
+          }]
+        }, {
+          "name": "Imam Husain ibn Ali",
+          "class": "man",
+          "extra": {
+            "nickname": "as",
+            "place": "Medina, Hejaz"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Shaherbano, Umm Layla, Umm Rabab",
+              "class": "woman",
+              "extra": {
+                "place": "Medina, Hejaz"
+              }
+            },
+            "children": [{
+              "name": "Imam Ali Ibn Husain",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              },
+              "marriages": [{
+                "spouse": {
+                  "name": "Fatima bint Hasan",
+                  "class": "woman",
+                  "extra": {
+                    "place": "Medina, Hejaz"
+                  }
+                },
+                "children": [{
+                  "name": "Imam Mohd Ibn Ali",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "as",
+                    "place": "Medina, Hejaz"
+                  },
+                  "marriages": [{
+                    "spouse": {
+                      "name": "Umm Farwa",
+                      "class": "woman",
+                      "extra": {
+                        "place": "Medina, Hejaz"
+                      }
+                    },
+                    "children": [{
+                      "name": "Imam Jafar Ibn Mohd",
+                      "class": "man",
+                      "extra": {
+                        "nickname": "as",
+                        "place": "Medina, Hejaz"
+                      },
+                      "marriages": [{
+                        "spouse": {
+                          "name": "Fatima",
+                          "class": "woman",
+                          "extra": {
+                            "place": "Medina, Hejaz"
+                          }
+                        },
+                        "children": [{
+                          "name": "Asma",
+                          "class": "woman",
+                          "extra": {
+                            "nickname": "Bint Jafar",
+                            "place": "Medina, Hejaz"
+                          }
+                        }, {
+                          "name": "Umm Farwa",
+                          "class": "woman",
+                          "extra": {
+                            "nickname": "Bint Jafar",
+                            "place": "Medina, Hejaz"
+                          }
+                        }, {
+                          "name": "Imam Musa Ibn Jafar",
+                          "class": "man",
+                          "extra": {
+                            "nickname": "as",
+                            "place": "Medina, Hejaz"
+                          },
+                          "marriages": [{
+                            "spouse": {
+                              "name": "Najma Khatun",
+                              "class": "woman",
+                              "extra": {
+                                "place": "Medina, Hejaz"
+                              }
+                            },
+                            "children": [{
+                              "name": "Imam Ali Ibn Musa",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ar Reza as",
+                                "place": "Medina, Hejaz"
+                              },
+                                                        "marriages": [{
+                            "spouse": {
+                              "name": "Sabika, Umm Habib",
+                              "class": "woman",
+                              "extra": {
+                                "place": "Medina, Hejaz"
+                              }
+                            },
+                            "children": [{
+                              "name": "Imam Mohd Ibn Ali",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Al Jawwad as",
+                                "place": "Medina, Hejaz"
+                              },
+                                                        "marriages": [{
+                            "spouse": {
+                              "name": "Samana, Umm Fazl",
+                              "class": "woman",
+                              "extra": {
+                                "place": "Medina, Hejaz"
+                              }
+                            },
+                            "children": [{
+                              "name": "Imam Ali Ibn Mohd",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Al Hadi as",
+                                "place": "Medina, Hejaz"
+                              },
+                                                        "marriages": [{
+                            "spouse": {
+                              "name": "Salil (sa)",
+                              "class": "woman",
+                              "extra": {
+                                "place": "Medina, Hejaz"
+                              }
+                            },
+                            "children": [{
+                              "name": "Imam Hasan Ibn Ali",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Al Askari as",
+                                "place": "Medina, Hejaz"
+                              },
+                                                        "marriages": [{
+                            "spouse": {
+                              "name": "Narjis Khatun (sa)",
+                              "class": "woman",
+                              "extra": {
+                                "place": "Medina, Hejaz"
+                              }
+                            },
+                            "children": [{
+                              "name": "Imam MHMD Ibn Hasan",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "atfs",
+                                "place": "Medina, Hejaz"
+                              }
+                            }] }]
+                            }, {
+                              "name": "Husain",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Ali",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Mohd",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Ali",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Jafar",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Ali",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "A'isha",
+                              "class": "woman",
+                              "extra": {
+                                "nickname": "Bint Ali",
+                                "place": "Medina, Hejaz"
+                              }
+                            }] }]
+                            }, {
+                              "name": "Musa",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Mohd",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Amama",
+                              "class": "woman",
+                              "extra": {
+                                "nickname": "Bint Mohd",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Fatima",
+                              "class": "woman",
+                              "extra": {
+                                "nickname": "Bint Mohd",
+                                "place": "Medina, Hejaz"
+                              }
+                            }]
+                                                        }]
+                            }]
+                                                        }]
+                            }, {
+                              "name": "Fatima",
+                              "class": "woman",
+                              "extra": {
+                                "nickname": "Al Masumah",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Hamza",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Musa",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Ahmad",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Musa",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Muhammad",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Musa",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Ishaq",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Musa",
+                                "place": "Medina, Hejaz"
+                              }
+                            }, {
+                              "name": "Ibrahim",
+                              "class": "man",
+                              "extra": {
+                                "nickname": "Ibn Musa",
+                                "place": "Medina, Hejaz"
+                              }
+                            }]
+                          }]
+                        }, {
+                          "name": "Ismail",
+                          "class": "man",
+                          "extra": {
+                            "nickname": "Ibn Jafar",
+                            "place": "Medina, Hejaz"
+                          }
+                        }, {
+                          "name": "Abdullah",
+                          "class": "man",
+                          "extra": {
+                            "nickname": "Ibn Jafar",
+                            "place": "Medina, Hejaz"
+                          }
+                        }, {
+                          "name": "Ali",
+                          "class": "man",
+                          "extra": {
+                            "nickname": "Ibn Jafar",
+                            "place": "Medina, Hejaz"
+                          }
+                        }, {
+                          "name": "Abbas",
+                          "class": "man",
+                          "extra": {
+                            "nickname": "Ibn Jafar",
+                            "place": "Medina, Hejaz"
+                          }
+                        }]
+                      }]
+                    }, {
+                      "name": "Ibrahim",
+                      "class": "man",
+                      "extra": {
+                        "nickname": "Ibn Mohd",
+                        "place": "Medina, Hejaz"
+                      }
+                    }, {
+                      "name": "Ali",
+                      "class": "man",
+                      "extra": {
+                        "nickname": "Ibn Mohd",
+                        "place": "Medina, Hejaz"
+                      }
+                    }, {
+                      "name": "Abdullah",
+                      "class": "man",
+                      "extra": {
+                        "nickname": "Ibn Mohd",
+                        "place": "Medina, Hejaz"
+                      }
+                    }, {
+                      "name": "Zaynab",
+                      "class": "woman",
+                      "extra": {
+                        "nickname": "Bint Mohd",
+                        "place": "Medina, Hejaz"
+                      }
+                    }, {
+                      "name": "Umm Salmah",
+                      "class": "woman",
+                      "extra": {
+                        "nickname": "Bint Mohd",
+                        "place": "Medina, Hejaz"
+                      }
+                    }]
+                  }]
+                }, {
+                  "name": "Khadija",
+                  "class": "woman",
+                  "extra": {
+                    "nickname": "Bint Ali",
+                    "place": "Medina, Hejaz"
+                  }
+                }, {
+                  "name": "Umm Kulthum",
+                  "class": "woman",
+                  "extra": {
+                    "nickname": "Bint Ali",
+                    "place": "Medina, Hejaz"
+                  }
+                }, {
+                  "name": "Fatima",
+                  "class": "woman",
+                  "extra": {
+                    "nickname": "Bint Ali",
+                    "place": "Medina, Hejaz"
+                  }
+                }, {
+                  "name": "Zayd Ibn Ali",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "as",
+                    "place": "Medina, Hejaz"
+                  }
+                }, {
+                  "name": "Umar Ashraf",
+                  "class": "man",
+                  "extra": {
+                    "nickname": "Abidi",
+                    "place": "Medina, Hejaz"
+                  }
+                }]
+              }]
+            }, {
+              "name": "Sakina Bint Husain",
+              "class": "woman",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Ali Akbar",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Ali Asghar",
+              "class": "man",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }, {
+              "name": "Fatima Sughra",
+              "class": "woman",
+              "extra": {
+                "nickname": "as",
+                "place": "Medina, Hejaz"
+              }
+            }]
+          }]
+        }]
+      }]
+    }, {
+      "name": "Ibrahim",
+      "class": "man",
+      "extra": {
+        "nickname": "Ibn Muhammad",
+        "place": "Medina, Hejaz"
+      }
+    }, {
+      "name": "Abdullah",
+      "class": "man",
+      "extra": {
+        "nickname": "Ibn Muhammad",
+        "place": "Medina, Hejaz"
+      }
+    }, {
+      "name": "Qasim",
+      "class": "man",
+      "extra": {
+        "nickname": "Ibn Muhammad",
+        "place": "Medina, Hejaz"
+      }
+    }]
+  }]
+}]
