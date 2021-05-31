@@ -1,0 +1,1200 @@
+[{
+  "name": "Hazrat Adam",
+  "class": "man",
+  "textClass": "emphasis",
+  "marriages": [{
+    "spouse": {
+      "name": "Hazrat Hawwa",
+      "class": "woman"
+    },
+    "children": [{
+      "name": "Habil",
+      "class": "man"
+    }, {
+      "name": "Qabil",
+      "class": "man",
+      "children": [{
+        "name": "Enoch",
+        "class": "man",
+        "children": [{
+          "name": "Irad",
+          "class": "man",
+          "children": [{
+            "name": "Mehrujael",
+            "class": "man",
+            "children": [{
+              "name": "Methushael",
+              "class": "man",
+              "children": [{
+                "name": "Lamech",
+                "class": "man",
+                "children": [{
+                  "name": "Jubal",
+                  "class": "man"
+                }, {
+                  "name": "Jabal",
+                  "class": "man"
+                }, {
+                  "name": "Naamah",
+                  "class": "man"
+                }, {
+                  "name": "Tubal - Clan",
+                  "class": "man"
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }, {
+      "name": "Hazrat Sheeth",
+      "class": "man",
+      "children": [{
+        "name": "Amwas",
+        "class": "man",
+        "children": [{
+          "name": "Qinan",
+          "class": "man",
+          "children": [{
+            "name": "Mahla'il",
+            "class": "man",
+            "children": [{
+              "name": "Yarid",
+              "class": "man",
+              "children": [{
+                "name": " Hazrat Idris",
+                "class": "man",
+                "children": [{
+                  "name": "Metulsalah",
+                  "class": "man",
+                  "children": [{
+                    "name": "Lamech",
+                    "class": "man",
+                    "children": [{
+                      "name": "Hazrat Nuh",
+                      "class": "man",
+                      "children": [{
+                        "name": "Yam",
+                        "class": "man"
+                      }, {
+                        "name": "Yafis",
+                        "class": "man",
+                        "extra": {
+                          "place": "Yaphethites Tribes"
+                        },
+                        "children": [{
+                        "name": "Gomer",
+                        "class": "man",
+                        "children": [{
+                        "name": "Ashkenaz",
+                        "class": "man"
+                      }, {
+                        "name": "Riphath",
+                        "class": "man"
+                      }, {
+                        "name": "Togarmah",
+                        "class": "man"
+                      }]
+                      }, {
+                        "name": "Magog",
+                        "class": "man"
+                      }, {
+                        "name": "Madai",
+                        "class": "man"
+                      }, {
+                        "name": "Javan",
+                        "class": "man",
+                        "children": [{
+                        "name": "Elishah",
+                        "class": "man"
+                      }, {
+                        "name": "Tarshish",
+                        "class": "man"
+                      }, {
+                        "name": "Kittim",
+                        "class": "man"
+                      }, {
+                        "name": "Dodanim",
+                        "class": "man"
+                      }]
+                      }, {
+                        "name": "Tubal",
+                        "class": "man"
+                      }, {
+                        "name": "Meshech",
+                        "class": "man"
+                      }, {
+                        "name": "Tiras",
+                        "class": "man"
+                      }]
+                    }, {
+                      "name": "Sham",
+                      "class": "man",
+                      "extra": {
+                          "place": "Semites Tribes"
+                        },
+                        "children": [{
+                        "name": "Elam",
+                        "class": "man"
+                      }, {
+                        "name": "Ashur",
+                        "class": "man"
+                      }, {
+                        "name": "Arphaxad",
+                        "class": "man",
+                        "children": [{
+                        "name": "Shelah",
+                        "class": "man",
+                        "children": [{
+                        "name": "Eber",
+                        "class": "man",
+                        "children": [{
+                          "name": "Joktan",
+                        "class": "man",
+                        "children": [{
+                        "name": "Almodad",
+                        "class": "man"
+                      }, {
+                        "name": "Sheleph",
+                        "class": "man"
+                      }, {
+                        "name": "Hazarmaveth",
+                        "class": "man"
+                      }, {
+                        "name": "Jerah",
+                        "class": "man"
+                      }, {
+                        "name": "Hadoram",
+                        "class": "man"
+                      }, {
+                        "name": "Uzal",
+                        "class": "man"
+                      }, {
+                        "name": "Diklah",
+                        "class": "man"
+                      }, {
+                        "name": "Obal",
+                        "class": "man"
+                      }, {
+                        "name": "Abimael",
+                        "class": "man"
+                      }, {
+                        "name": "Shebah",
+                        "class": "man"
+                      }, {
+                        "name": "Ophir",
+                        "class": "man"
+                      }, {
+                        "name": "Havilah",
+                        "class": "man"
+                      }, {
+                        "name": "Jobab",
+                        "class": "man"
+                      }]
+                        }, {
+                        "name": "Peleg",
+                        "class": "man",
+                        "children": [{
+                        "name": "Reu",
+                        "class": "man",
+                        "children": [{
+                        "name": "Serug",
+                        "class": "man",
+                        "children": [{
+                        "name": "Nahor",
+                        "class": "man",
+                        "children": [{
+                        "name": "Azhar",
+                        "class": "man",
+                        "children": [{
+                          "name": "Haran",
+                        "class": "man",
+                        "children": [{
+                          "name": "Hazrat Lut",
+                        "class": "man",
+                        "children": [{
+                          "name": "Moab",
+                        "class": "man"
+                        }, {
+                          "name": "Amman",
+                        "class": "man"
+                        }]
+                        }, {
+                          "name": "Milcah",
+                        "class": "man"
+                        }, {
+                          "name": "Iscah",
+                        "class": "man"
+                        }]
+                        }, {
+                        "name": "Hazrat Ibrahim",
+                        "class": "man",
+                        "marriages": [{
+    "spouse": {
+      "name": "Hajra, Sarah, Keturah",
+      "class": "woman"
+    },
+    "children": [{
+      "name": "Prophet Ishaq",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Yaqub",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Yusuf",
+      "class": "man"
+    }, {
+      "name": "Levi",
+      "class": "man",
+      "children": [{
+      "name": "Kohath",
+      "class": "man",
+      "children": [{
+      "name": "Imran",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Musa",
+      "class": "man"
+    }, {
+      "name": "Prophet Harun",
+      "class": "man",
+      "children": [{
+      "name": "Izar",
+      "class": "man",
+      "children": [{
+      "name": "Fahnaz",
+      "class": "man",
+      "children": [{
+      "name": "Yasin",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Ilyas",
+      "class": "man"
+    }]
+    }, {
+      "name": "Ukhtub",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Alyasa'",
+      "class": "man"
+    }]
+    }]
+    }]
+    }, {
+      "name": "Aziz",
+      "class": "man"
+    }]
+    }]
+    }]
+    }]
+    }, {
+      "name": "Benyamin",
+      "class": "man",
+      "children": [{
+      "name": "Abumata",
+      "class": "man",
+      "children": [{
+      "name": "Matta",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Yunus",
+      "class": "man"
+    }]
+    }]
+    }]
+    }, {
+      "name": "Yahudza",
+      "class": "man",
+      "children": [{
+      "name": "Bares",
+      "class": "man",
+      "children": [{
+      "name": "Hasrun",
+      "class": "man",
+      "children": [{
+      "name": "Raum",
+      "class": "man",
+      "children": [{
+      "name": "Ummanizab",
+      "class": "man",
+      "children": [{
+      "name": "Yauksaun",
+      "class": "man",
+      "children": [{
+      "name": "Salmun",
+      "class": "man",
+      "children": [{
+      "name": "Yuar",
+      "class": "man",
+      "children": [{
+      "name": "Ufiz",
+      "class": "man",
+      "children": [{
+      "name": "Isya",
+      "class": "man",
+      "children": [{
+      "name": "Uwaid",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Dawood",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Sulaiman",
+      "class": "man",
+      "children": [{
+        "name": "Prophet Zakaria",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Yahya",
+      "class": "man"
+    }] }, {
+      "name": "Imran",
+      "class": "man",
+      "children": [{
+      "name": "Bibi Maryam",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Isa",
+      "class": "man"
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }, {
+      "name": "Rueben",
+      "class": "man"
+    }, {
+      "name": "Simeon",
+      "class": "man"
+    }, {
+      "name": "Judah",
+      "class": "man"
+    }, {
+      "name": "Issachar",
+      "class": "man"
+    }, {
+      "name": "Zebulun",
+      "class": "man"
+    }, {
+      "name": "Gad",
+      "class": "man"
+    }, {
+      "name": "Asher",
+      "class": "man"
+    }, {
+      "name": "Dan",
+      "class": "man"
+    }]
+    }, {
+      "name": "Ish",
+      "class": "man",
+      "children": [{
+      "name": "Rum",
+      "class": "man",
+      "children": [{
+      "name": "Tarekh",
+      "class": "man",
+      "children": [{
+      "name": "Amose",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Ayyub",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Zulkifl",
+      "class": "man"
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }, {
+      "name": "Prophet Ismail",
+      "class": "man",
+      "children": [{
+      "name": "Haidir",
+      "class": "man",
+      "children": [{
+      "name": "Aram",
+      "class": "man",
+      "children": [{
+      "name": "Adwa",
+      "class": "man",
+      "children": [{
+      "name": "Wazzi",
+      "class": "man",
+      "children": [{
+      "name": "Sami",
+      "class": "man",
+      "children": [{
+      "name": "Zarih",
+      "class": "man",
+      "children": [{
+      "name": "Nahith",
+      "class": "man",
+      "children": [{
+      "name": "Muksar",
+      "class": "man",
+      "children": [{
+      "name": "Aiham",
+      "class": "man",
+      "children": [{
+      "name": "Afnad",
+      "class": "man",
+      "children": [{
+      "name": "Aisar",
+      "class": "man",
+      "children": [{
+      "name": "Deshan",
+      "class": "man",
+      "children": [{
+      "name": "Aid",
+      "class": "man",
+      "children": [{
+      "name": "Ar'awi",
+      "class": "man",
+      "children": [{
+      "name": "Yalhan",
+      "class": "man",
+      "children": [{
+      "name": "Yahzin",
+      "class": "man",
+      "children": [{
+      "name": "Yathrabi",
+      "class": "man",
+      "children": [{
+      "name": "Sanbir",
+      "class": "man",
+      "children": [{
+      "name": "Hamdan",
+      "class": "man",
+      "children": [{
+      "name": "Ad Da'a",
+      "class": "man",
+      "children": [{
+      "name": "Ubaid",
+      "class": "man",
+      "children": [{
+      "name": "Abqar",
+      "class": "man",
+      "children": [{
+      "name": "Aid",
+      "class": "man",
+      "children": [{
+      "name": "Makhi",
+      "class": "man",
+      "children": [{
+      "name": "Nahish",
+      "class": "man",
+      "children": [{
+      "name": "Jahim",
+      "class": "man",
+      "children": [{
+      "name": "Tabikh",
+      "class": "man",
+      "children": [{
+      "name": "Yadlaf",
+      "class": "man",
+      "children": [{
+      "name": "Bildas",
+      "class": "man",
+      "children": [{
+      "name": "Haza",
+      "class": "man",
+      "children": [{
+      "name": "Nashid",
+      "class": "man",
+      "children": [{
+      "name": "Awwam",
+      "class": "man",
+      "children": [{
+      "name": "Obai",
+      "class": "man",
+      "children": [{
+      "name": "Qamwal",
+      "class": "man",
+      "children": [{
+      "name": "Buz",
+      "class": "man",
+      "children": [{
+      "name": "Aws",
+      "class": "man",
+      "children": [{
+      "name": "Salman",
+      "class": "man",
+      "children": [{
+      "name": "Humaisi",
+      "class": "man",
+      "children": [{
+      "name": "Add'",
+      "class": "man",
+      "children": [{
+      "name": "Adnaan",
+      "class": "man",
+      "children": [{
+      "name": "Ma'ad",
+      "class": "man",
+      "children": [{
+      "name": "Nizaar",
+      "class": "man",
+      "children": [{
+        "name": "Rabi'ah",
+        "class": "man",
+        "children": [{
+        "name": "Rabi'ah",
+        "class": "man",
+        "children": [{
+        "name": "Asad",
+        "class": "man",
+        "children": [{
+        "name": "Anazah",
+        "class": "man",
+        "children": [{
+        "name": "Jadilah",
+        "class": "man",
+        "children": [{
+        "name": "Du'miyy",
+        "class": "man",
+        "children": [{
+        "name": "Afsa",
+        "class": "man",
+        "children": [{
+        "name": "Hinb",
+        "class": "man",
+        "children": [{
+        "name": "Qasit",
+        "class": "man",
+        "children": [{
+        "name": "Wa'il",
+        "class": "man",
+        "children": [{
+        "name": "Yashkur",
+        "class": "man"
+      }, {
+        "name": "Taghlib",
+        "class": "man"
+      }, {
+        "name": "Amaz",
+        "class": "man"
+      }, {
+        "name": "Bakr",
+        "class": "man",
+        "children": [{
+        "name": "Hanifah",
+        "class": "man"
+      }, {
+        "name": "Shaiban",
+        "class": "man"
+      }]
+      }]
+      }]
+      }]
+      }, {
+        "name": "Qurayy",
+        "class": "man",
+        "children": [{
+        "name": "Abdul Qays",
+        "class": "man"
+      }]
+      }]
+      }]
+      }]
+      }]
+      }]
+      }]
+      }]
+      }, {
+      "name": "Mudhr",
+      "class": "man",
+      "children": [{
+        "name": "Ailan",
+        "class": "man",
+        "children": [{
+        "name": "Qais",
+        "class": "man",
+        "children": [{
+        "name": "Sa'd",
+        "class": "man"
+      }, {
+        "name": "Khasafah",
+        "class": "man"
+      }, {
+        "name": "Ghatafan",
+        "class": "man"
+      }]
+      }]
+      }, {
+      "name": "Ilyaas",
+      "class": "man",
+      "children": [{
+        "name": "Tabikhah",
+      "class": "man",
+      "children": [{
+        "name": "Udd",
+      "class": "man",
+      "children": [{
+        "name": "Abd Manat",
+      "class": "man",
+      "children": [{
+        "name": "Wa'il Dubbah",
+      "class": "man",
+      "children": [{
+        "name": "Auf",
+      "class": "man"
+      }]
+      }]
+      }, {
+        "name": "Murr",
+      "class": "man",
+        "children": [{
+        "name": "Tamim",
+      "class": "man"
+      }]
+      }, {
+        "name": "Amr",
+      "class": "man",
+        "children": [{
+        "name": "Uthman",
+      "class": "man"
+      }]
+      }]
+      }]
+      }, {
+        "name": "Qama'ah",
+      "class": "man",
+      "children": [{
+        "name": "Khuzra'ah",
+      "class": "man"
+      }]
+      }, {
+      "name": "Mudrikah",
+      "class": "man",
+      "children": [{
+      "name": "Khuzaima",
+      "class": "man",
+      "children": [{
+      "name": "Kinaana",
+      "class": "man",
+      "children": [{
+      "name": "An Nadhr",
+      "class": "man",
+      "children": [{
+      "name": "Maalik",
+      "class": "man",
+      "children": [{
+      "name": "Fahr",
+      "class": "man",
+      "extras": {
+        "place": "Quraysh"
+      },
+      "children": [{
+      "name": "Ghaalib",
+      "class": "man",
+      "children": [{
+      "name": "Lo'ee",
+      "class": "man",
+      "children": [{
+      "name": "Ka'ab",
+      "class": "man",
+      "children": [{
+        "name": "Adiyy",
+      "class": "man"
+      }, {
+      "name": "Murrah",
+      "class": "man",
+      "children": [{
+        "name": "Yaqza",
+      "class": "man",
+      "children": [{
+        "name": "Makhzum",
+      "class": "man",
+      "children": [{
+        "name": "Imran",
+      "class": "man",
+      "children": [{
+        "name": "A'ez",
+      "class": "man",
+      "children": [{
+        "name": "Amru",
+      "class": "man"
+      }]
+      }, {
+        "name": "Abd",
+      "class": "man",
+      "children": [{
+        "name": "Sakhra",
+      "class": "man"
+      }]
+      }]
+      }]
+      }]
+      }, {
+        "name": "Taim",
+      "class": "man"
+      }, {
+      "name": "Kilaab",
+      "class": "man",
+      "children": [{
+        "name": "Zuhrah",
+      "class": "man"
+      }, {
+      "name": "Qusai",
+      "class": "man",
+      "children": [{
+        "name": "Abdul Addar",
+      "class": "man",
+        "children": [{
+        "name": "Othman",
+      "class": "man",
+      "children": [{
+        "name": "Abdul Uzza",
+      "class": "man",
+      "marriages": [{
+    "spouse": {
+      "name": "Umm Habib",
+      "class": "woman"
+    },
+      "children": [{
+        "name": "Barra",
+      "class": "man"
+      }]
+      }]
+      }]
+      }]
+      }, {
+        "name": "Abdul Uzza",
+      "class": "man",
+      "children": [{
+        "name": "Assad",
+      "class": "man"
+      }]
+      }, {
+      "name": "Abd Manaf",
+      "class": "man",
+      "children": [{
+        "name": "Abd Shams",
+      "class": "man",
+      "children": [{
+        "name": "Umayyah",
+      "class": "man"
+      }]
+      }, {
+      "name": "Hashim",
+      "class": "man",
+      "marriages": [{
+    "spouse": {
+      "name": "Salma",
+      "class": "woman"
+    },
+      "children": [{
+      "name": "Hazrat Abdul Muttalib",
+      "class": "man",
+      "marriages": [{
+    "spouse": {
+      "name": "Fatima",
+      "class": "woman"
+    },
+      "children": [{
+        "name": "Abu Lahab (la)",
+      "class": "man"
+      }, {
+        "name": "Zubayr",
+      "class": "man"
+      }, {
+        "name": "Umm Hakim",
+      "class": "woman"
+      }, {
+        "name": "Barrah",
+      "class": "woman"
+      }, {
+        "name": "Arwa",
+      "class": "woman"
+      }, {
+        "name": "Atika",
+      "class": "woman"
+      }, {
+        "name": "Umama",
+      "class": "woman"
+      }, {
+        "name": "Safiyyah",
+      "class": "woman"
+      }, {
+        "name": "Hazrat Abu Talib",
+      "class": "man",
+      "marriages": [{
+    "spouse": {
+      "name": "Fatima Bint Asad",
+      "class": "woman"
+    },
+      "children": [{
+        "name": "Talib",
+      "class": "man"
+      }, {
+        "name": "Aqeel",
+      "class": "man"
+      }, {
+        "name": "Jafar",
+      "class": "man"
+      }, {
+        "name": "Fakhitah",
+      "class": "woman"
+      }, {
+        "name": "Jumanah",
+      "class": "woman"
+      }, {
+        "name": "Raytah",
+      "class": "woman"
+      }, {
+      "name": "Imam Ali (as)",
+      "class": "man"
+    }] }]
+      }, {
+        "name": "Hazrat Hamza",
+      "class": "man"
+      }, {
+        "name": "Abbas",
+      "class": "man"
+      }, {
+      "name": "Hazrat Abdullah",
+      "class": "man",
+      "marriages": [{
+    "spouse": {
+      "name": "Bibi Amina",
+      "class": "woman"
+    },
+      "children": [{
+      "name": "Hazrat Muhammad (saw)",
+      "class": "man"
+    }]
+      }]
+      }]
+    }]
+      }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }]
+    }, {
+      "name": "Zimran",
+      "class": "man"
+    }, {
+      "name": "Jokshan",
+      "class": "man",
+      "children": [{
+      "name": "Assurites",
+      "class": "man"
+    }, {
+      "name": "Leturites",
+      "class": "man"
+    }, {
+      "name": "Luemites",
+      "class": "man"
+    }]
+    }, {
+      "name": "Medan",
+      "class": "man"
+    }, {
+      "name": "Midian",
+      "class": "man",
+      "children": [{
+      "name": "Issachar",
+      "class": "man",
+      "children": [{
+      "name": "Mikil",
+      "class": "man",
+      "children": [{
+      "name": "Prophet Shuaib",
+      "class": "man"
+    }]
+    }]
+    }]
+    }, {
+      "name": "Ishbak",
+      "class": "man"
+    }, {
+      "name": "Shuah",
+      "class": "man"
+    }] }]
+                      }, {
+                        "name": "Nahor",
+                        "class": "man",
+                        "children": [{
+                          "name": "Uz",
+                        "class": "man"
+                        }, {
+                          "name": "Buz",
+                        "class": "man"
+                        }, {
+                          "name": "Kemuel",
+                        "class": "man"
+                        }, {
+                          "name": "Chesed",
+                        "class": "man"
+                        }, {
+                          "name": "Hazd",
+                        "class": "man"
+                        }, {
+                          "name": "Pildash",
+                        "class": "man"
+                        }, {
+                          "name": "Jidlaph",
+                        "class": "man"
+                        }, {
+                          "name": "Bethuel",
+                        "class": "man"
+                        }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }, {
+                        "name": "Lud",
+                        "class": "man"
+                      }, {
+                        "name": "Iram",
+                        "class": "man",
+                        "children": [{
+                        "name": "Uz",
+                        "class": "man",
+                        "children": [{
+                        "name": "Aad",
+                        "class": "man",
+                        "children": [{
+                        "name": "Jabud",
+                        "class": "man",
+                        "children": [{
+                        "name": "Raya",
+                        "class": "man",
+                        "children": [{
+                        "name": "Abdullah",
+                        "class": "man",
+                        "children": [{
+                        "name": "Hazrat Hud",
+                        "class": "man"
+                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }, {
+                        "name": "Gether",
+                        "class": "man",
+                        "children": [{
+                        "name": "Thamud",
+                        "class": "man",
+                        "children": [{
+                        "name": "Hadzir",
+                        "class": "man",
+                        "children": [{
+                        "name": "Ubayd",
+                        "class": "man",
+                        "children": [{
+                        "name": "Masih",
+                        "class": "man",
+                        "children": [{
+                        "name": "Asif",
+                        "class": "man",
+                        "children": [{
+                        "name": "Ubaid",
+                        "class": "man",
+                        "children": [{
+                        "name": "Hazrat Saleh",
+                        "class": "man"
+                      }]                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }]
+                      }, {
+                        "name": "Hul",
+                        "class": "man"
+                      }, {
+                        "name": "Meshech",
+                        "class": "man"
+                      }]
+                      }]
+                    }, {
+                      "name": "Ham",
+                      "class": "man",
+                      "extra": {
+                          "place": "Hamites Tribes"
+                        },
+                        "children": [{
+                        "name": "Put",
+                        "class": "man"
+                      }, {
+                        "name": "Mizraim",
+                        "class": "man",
+                        "children": [{
+                        "name": "Ludim",
+                        "class": "man"
+                      }, {
+                        "name": "Naptuhim",
+                        "class": "man"
+                      }, {
+                        "name": "Anamim",
+                        "class": "man"
+                      }, {
+                        "name": "Capithorim",
+                        "class": "man"
+                      }, {
+                        "name": "Lehobim",
+                        "class": "man"
+                      }, {
+                        "name": "Pathrusim",
+                        "class": "man"
+                      }, {
+                        "name": "Casluhim",
+                        "class": "man"
+                      }]
+                      }, {
+                        "name": "Canaan",
+                        "class": "man",
+                        "children": [{
+                        "name": "Sidon",
+                        "class": "man"
+                      }, {
+                        "name": "Heth",
+                        "class": "man"
+                      }, {
+                        "name": "Jebusite",
+                        "class": "man"
+                      }, {
+                        "name": "Amorite",
+                        "class": "man"
+                      }, {
+                        "name": "Girgasite",
+                        "class": "man"
+                      }, {
+                        "name": "Hevite",
+                        "class": "man"
+                      }, {
+                        "name": "Arkite",
+                        "class": "man"
+                      }, {
+                        "name": "Sinite",
+                        "class": "man"
+                      }, {
+                        "name": "Arvadite",
+                        "class": "man"
+                      }, {
+                        "name": "Zemarite",
+                        "class": "man"
+                      }, {
+                        "name": "Hamathite",
+                        "class": "man"
+                      }]
+                      }, {
+                        "name": "Cush",
+                        "class": "man",
+                        "children": [{
+                        "name": "Nimrod",
+                        "class": "man"
+                      }, {
+                        "name": "Seba",
+                        "class": "man"
+                      }, {
+                        "name": "Havilah",
+                        "class": "man"
+                      }, {
+                        "name": "Raamah",
+                        "class": "man",
+                        "children": [{
+                        "name": "Sheba",
+                        "class": "man"
+                      }, {
+                        "name": "Dedan",
+                        "class": "man"
+                      }]
+                      }, {
+                        "name": "Sabta",
+                        "class": "man"
+                      }, {
+                        "name": "Sabteca",
+                        "class": "man"
+                      }]
+                      }]
+                    }]
+                  }]
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}]
+}]
