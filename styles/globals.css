@@ -1,0 +1,367 @@
+*::-webkit-scrollbar {
+  display: none;
+}
+
+.alert.alert-danger {
+  position: absolute;
+  top: 5rem;
+  right: 1rem;
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.2);
+  margin: 1rem;
+  padding: 0.5rem;
+
+  background-color: #fad1d1 !important;
+  color: #a74848 !important;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  border-left: 3px solid;
+  border-left-color: #ef6767 !important;
+}
+
+.alert {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.alert i {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.alert.alert-success {
+  position: absolute;
+  top: 5rem;
+  right: 1rem;
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.2);
+  margin: 1rem;
+  padding: 0.5rem;
+
+  background-color: #c2eddd !important;
+  color: #248964 !important;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  border-left: 3px solid;
+  border-left-color: #34c38f !important;
+}
+
+.alert .btn-close {
+  border: none;
+  outline: none;
+  font-size: 10px;
+  opacity: 0.7;
+  padding: 1.05rem 1.25rem;
+  background: transparent
+    url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxNiAxNicgZmlsbD0nIzAwMCc+PHBhdGggZD0nTS4yOTMuMjkzYTEgMSAwIDAxMS40MTQgMEw4IDYuNTg2IDE0LjI5My4yOTNhMSAxIDAgMTExLjQxNCAxLjQxNEw5LjQxNCA4bDYuMjkzIDYuMjkzYTEgMSAwIDAxLTEuNDE0IDEuNDE0TDggOS40MTRsLTYuMjkzIDYuMjkzYTEgMSAwIDAxLTEuNDE0LTEuNDE0TDYuNTg2IDggLjI5MyAxLjcwN2ExIDEgMCAwMTAtMS40MTR6Jy8+PC9zdmc+)
+    center/1em auto no-repeat;
+}
+
+.navbar {
+  height: 70px;
+}
+
+.navbar .navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.dropdown-item,
+.nav-link {
+  cursor: pointer;
+}
+
+body {
+  background-color: azure;
+}
+
+nav {
+  box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.1);
+}
+
+.bg-light {
+  background-color: #fff;
+}
+
+.navbar-light {
+  background-color: #fff;
+}
+
+.nav-link {
+  color: rgb(23, 1, 110) !important;
+  font-weight: 800 !important;
+  font-family: "Nunito", sans-serif;
+}
+
+.search-box {
+  width: 350px;
+  background-color: #eee;
+  padding: 2px 10px;
+  border-radius: 37px;
+  background: azure;
+  box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.13) inset;
+  -webkit-box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.13) inset;
+  -moz-box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.13) inset;
+}
+
+.navbar button {
+  font-size: 16px !important;
+  border: none;
+  outline: none;
+}
+
+.dropdown button:hover,
+.dropdown button:active,
+.dropdown button:focus {
+  background-color: transparent !important;
+}
+
+.search-box input {
+  background-color: azure;
+  border: none;
+  margin: 0;
+}
+
+a {
+  cursor: pointer;
+}
+
+.form-control:focus {
+  border: none !important;
+  box-shadow: none;
+  background-color: azure;
+}
+
+.dropdown-menu {
+  border: none;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  font-family: Nunito, Sans-Serif;
+}
+
+.dropdown-menu {
+  color: rgb(23, 1, 110);
+}
+
+.footer-sticky {
+  color: rgb(23, 1, 110);
+  font-family: Nunito, Sans-Serif;
+  width: 70%;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px -3px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+  font-family: Nunito, Sans-Serif;
+  font-weight: 600;
+}
+
+.card p {
+  margin: 0;
+  padding: 0;
+}
+
+.home .card {
+  cursor: pointer;
+  color: rgb(23, 1, 110);
+}
+
+button {
+  position: relative;
+}
+
+.home .card:hover {
+  transition: all 0.5s ease;
+  transform: scale(1.05);
+}
+
+.home .card i {
+  position: absolute;
+  right: 10%;
+  top: 30%;
+}
+
+.card-body img {
+  width: 40px;
+  height: 25px;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler i {
+  color: rgb(23, 1, 110);
+}
+
+.navbar button {
+  font-size: 30px;
+}
+
+.card.contact {
+  border-radius: 15px;
+}
+
+.card form input,
+.card form textarea {
+  background: #eee;
+}
+
+.card form input:focus,
+.card form textarea:focus {
+  background-color: #eee;
+  box-shadow: none;
+  border-color: darkgrey;
+}
+
+.card-title {
+  color: rgb(23, 1, 110);
+  font-weight: 800;
+}
+
+.btn-primary {
+  background-color: transparent;
+  border-color: rgb(23, 1, 110);
+  color: rgb(23, 1, 110);
+}
+
+.linage {
+  fill: none;
+  stroke: #00bfff;
+  stroke-width: 2;
+  stroke-dasharray: 3000;
+  stroke-dashoffset: 3000;
+  animation: dash 10s ease-in forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.marriage {
+  fill: none;
+  stroke: #00bfff;
+  stroke-width: 2;
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 2000;
+  animation: dash 10s ease-in forwards;
+}
+
+.marriageNode {
+  background-color: black;
+  border-radius: 50%;
+}
+
+.tree-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.man {
+  background-color: #fff;
+  max-width: 200px;
+  max-height: 120px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.man p {
+  /* Fallback: Set a background color. */
+  background-color: red;
+
+  /* Create the gradient. */
+  background-image: linear-gradient(45deg, #63a0f6, #424681);
+
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.woman {
+  background-color: #fff;
+  width: 100px;
+  max-height: 120px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.woman p {
+  /* Fallback: Set a background color. */
+  background-color: red;
+
+  /* Create the gradient. */
+  background-image: linear-gradient(45deg, #f09bb8, #b8185d);
+
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+  padding: 0;
+  margin: 10px 0 0;
+}
+
+svg {
+  background-color: azure;
+  font: 13px Nunito, sans-serif;
+  font-weight: 800;
+}
+
+svg foreignObject {
+  color: rgb(13, 0, 65);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+#nprogress .bar {
+  box-shadow: 0 3px 4px rgba(0, 127, 255, 0.3);
+}
+
+@media (max-width: 768px) {
+  .footer-sticky {
+    font-size: 14px;
+    border-radius: 7px;
+    width: 90%;
+    padding: 5px;
+  }
+  .spaceTop {
+    margin-top: 5%;
+  }
+}
+
+@media (min-width: 768px) {
+  .spaceTop {
+    margin-top: 10%;
+  }
+}
