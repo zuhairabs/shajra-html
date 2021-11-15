@@ -3,15 +3,29 @@ import Image from "next/image";
 import Link from "next/Link";
 import LogoSmall from "../assets/logo-small.png";
 import LogoBig from "../assets/logo-big.png";
+import Search from "./Search/Index";
 
 export default function Navbar() {
   const [ isOpen, setIsOpen ] = React.useState(false);
+  const [ isOpenLang, setIsOpenLang ] = React.useState(false);
+  const [ isOpenSearch, setSearchOpen ] = React.useState(false);
 
-  const handleDropdown = () => {
-    setIsOpen(state => !state);
+  const handleDropdown = (toOpen) => {
+    if(toOpen === 'lang'){
+      setIsOpenLang(state => !state);
+      setIsOpen(state => false);
+    } else {
+      setIsOpen(state => !state);
+      setIsOpenLang(state => false);
+    }
+  }
+
+  const openSearch = () => {
+    setSearchOpen(state => !state);
   }
 
   return (
+    <>
     <nav className="navbar navbar-expand-lg navbar-light">
       <Link href="/">
         <div className="navbar-brand mb-2">
@@ -49,17 +63,17 @@ export default function Navbar() {
             </a>
             { isOpen && (
               <div className="dropdown-menu show">
-                <Link href="trees/prophet">
+                <Link href={`${process.env.baseUrl}/trees/prophet`}>
                   <div className="dropdown-item">
                     <i className="linearicons-site-map"></i> Prophet Muhammad (saw)
                   </div>
                 </Link>
-                <Link href="trees/ahlulbayt">
+                <Link href={`${process.env.baseUrl}/trees/ahlulbayt`}>
                   <div className="dropdown-item">
                     <i className="linearicons-site-map"></i> Ahlulbayt (as)
                   </div>
                 </Link>
-                <Link href="trees/zuhair">
+                <Link href={`${process.env.baseUrl}/trees/zuhair`}>
                   <div className="dropdown-item">
                     <i className="linearicons-site-map"></i> Abidi (Zuhair Abbas)
                   </div>
@@ -68,12 +82,34 @@ export default function Navbar() {
               )
             }
           </li>
-          <li className="nav-item">
-            <Link href="info">
-              <div className="nav-link">
-                Information
+          <li className="nav-item dropdown">
+            <a
+              className="nav-link dropdown-toggle"
+              href={null}
+              onClick={() => handleDropdown('lang')}
+            >
+              <i className="linearicons-earth"></i> English
+            </a>
+            { isOpenLang && (
+              <div className="dropdown-menu show">
+                <Link href={`${process.env.baseUrl}/trees/prophet`}>
+                  <div className="dropdown-item">
+                    <i className="linearicons-chevron-right"></i> Arabic
+                  </div>
+                </Link>
+                <Link href={`${process.env.baseUrl}/trees/ahlulbayt`}>
+                  <div className="dropdown-item">
+                    <i className="linearicons-chevron-right"></i> Persian
+                  </div>
+                </Link>
+                <Link href={`${process.env.baseUrl}/trees/zuhair`}>
+                  <div className="dropdown-item">
+                    <i className="linearicons-chevron-right"></i> Urdu
+                  </div>
+                </Link>
               </div>
-            </Link>
+              )
+            }
           </li>
           <li className="nav-item">
             <Link href="contact">
@@ -83,7 +119,7 @@ export default function Navbar() {
             </Link>
           </li>
         </ul>
-        <form className="d-none d-md-block search-box form-inline my-2 mr-auto">
+        <form onClick={openSearch} className="d-none d-md-block search-box form-inline my-2 mr-auto">
           <span className="lnr lnr-magnifier my-2" type="submit"></span>
           <input
             className="form-control mr-sm-2"
@@ -100,5 +136,7 @@ export default function Navbar() {
         </div>
       </div>
     </nav>
+    {isOpenSearch && <Search isOpen={isOpenSearch} setOpen={setSearchOpen} />}
+    </>
   );
 }

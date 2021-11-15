@@ -2,6 +2,12 @@
   display: none;
 }
 
+.navbar {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
 .alert.alert-danger {
   position: absolute;
   top: 5rem;
@@ -76,6 +82,7 @@
 
 body {
   background-color: azure;
+  font-family: 'Muli';
 }
 
 nav {
@@ -86,6 +93,14 @@ nav {
   background-color: #fff;
 }
 
+.nav-item {
+  margin-right: 2rem;
+}
+
+.nav-item:first-child {
+  margin-left: 2rem;
+}
+
 .navbar-light {
   background-color: #fff;
 }
@@ -93,7 +108,7 @@ nav {
 .nav-link {
   color: rgb(23, 1, 110) !important;
   font-weight: 800 !important;
-  font-family: "Nunito", sans-serif;
+  font-family: "Muli", sans-serif;
 }
 
 .search-box {
@@ -161,7 +176,7 @@ a {
 .card {
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
   border: none;
-  font-family: Nunito, Sans-Serif;
+  font-family: 'Muli', Sans-Serif;
   font-weight: 600;
 }
 
